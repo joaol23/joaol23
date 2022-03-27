@@ -8,11 +8,8 @@ joaol23/joaol23 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
+<div>
   <a href="https://github.com/joaol23">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaol23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaol23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaol23&layout=compact)](https://github.com/joaol23/github-readme-stats&theme=midnight-purpl)
