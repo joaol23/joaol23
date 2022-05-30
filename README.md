@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @joaol23
-- 👀 I’m interested in learning new things about programing and grow more and more every day.
-- 🌱 I’m currently learning php and js, where I'm working right now these are the more used languages.
-- 💞️ I’m looking to collaborate on helping out companys as well as they would teach me.
-
-<!---
-joaol23/joaol23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, meu nome é João Lucas. Estou atualmente fazendo curso técnico em TI. Sou um amante de programação, espero crescer meus conhecimentos em linguagens cada vez mais :)
 
 <div>
   <a href="https://github.com/joaol23">
