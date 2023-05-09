@@ -10,13 +10,6 @@ As a software developer, I possess the skills necessary to design and implement 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaol23&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaol23&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-
-## 🌐 Socials:
-<div align="center"> 
-      <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-      <a href="mailto:joaolucas.m.ferreira2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
  
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -50,3 +43,9 @@ As a software developer, I possess the skills necessary to design and implement 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 🌐 Socials:
+<div align="center"> 
+      <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+      <a href="mailto:joaolucas.m.ferreira2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
