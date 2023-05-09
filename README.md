@@ -14,9 +14,9 @@ As a software developer, I possess the skills necessary to design and implement 
 
 ## 🌐 Socials:
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  <a href="mailto:joaolucas.m.ferreira2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+      <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+      <a href="mailto:joaolucas.m.ferreira2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
  
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -50,8 +50,3 @@ As a software developer, I possess the skills necessary to design and implement 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaol23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
