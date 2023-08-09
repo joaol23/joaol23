@@ -4,12 +4,6 @@
 Hi, I'm João Lucas a software developer with more than 2 years of experience working with various technologies. My main expertise lies in Web Development, Code Architecture and Software Development.
 
 As a software developer, I possess the skills necessary to design and implement efficient and scalable software solutions, utilizing the most suitable technologies for each project. Furthermore, I can conduct precise system and requirement analyses, evaluate customer requirements, and translate that information into precise specifications for software development.
-
-## 📈 GitHub statistics
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaol23&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaol23&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
-</div>
  
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
