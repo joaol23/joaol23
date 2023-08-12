@@ -42,4 +42,5 @@ As a software developer, I possess the skills necessary to design and implement 
 <div align="center"> 
       <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
       <a href="mailto:joaolucas.m.ferreira2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ <a href="https://portifolio-joao-lucas.vercel.app" target="_blank">Portifolio</a> 
 </div>
