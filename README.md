@@ -38,6 +38,11 @@ As a software developer, I possess the skills necessary to design and implement 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaol23&hide=css,html&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## 🌐 Socials:
 <div align="center"> 
       <a href="https://www.linkedin.com/in/joao-lucas-mesquita-ferreira-334aa6205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
